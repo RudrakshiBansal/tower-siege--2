@@ -90,6 +90,7 @@ function draw() {
   fill("white");
   text("DESTRUCTION GAME",600,50);
   text("Drag the pentagon to hit the blocks...",510,90);
+  text("Press space to replay",570,150);
   
 
   fill("brown");
